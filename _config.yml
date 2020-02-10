@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: 锵锵脑科学
+author: 滕相斌
+email: xiangbin.in.china@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ 锵锵脑科学是一档访谈节目。每期邀请一位从事脑科学研究的一线科研人员作为嘉宾，聊聊前沿的脑科学，向大家展示科研人员的生活，同时传播快乐科研和健康生活的经验和建议。也会不定期地对当下科研话题进行讨论。
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
